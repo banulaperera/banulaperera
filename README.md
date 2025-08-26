@@ -13,10 +13,10 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar photo of Banula" src="https://github.com/banulaperera/banulaperera/blob/d30a9a3d8f9d2a3bc0835c4a0387b43f7cd04159/generated_image.png" alt="Avatar photo of Banula">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1843F7&width=435&lines=I+am+Banula+Perera;Welcome+to+my+Github+Profile;University+of+Westminster;Software+Engineer;F1+Races+and+Movie+Lover;Hardworking+and+Ambitious+;Inquisitive%2Band%2BCurious" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79924&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Banula+Perera.;Welcome+to+my+Github+Profile.;University+of+Westminster%2C+London.;Software+Engineer.;Cloud+Certified(AWS%2C+GCP+and+Azure).;Aspiring+Devops%2FSRE.;Currently+Learning+Cheminformatics+and+Natural+Language+Processing.;F1+Race+and+Movie+Lover.;Hardworking+and+Ambitious.+" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -101,16 +101,15 @@
     <br>
     <br>
     <kbd>
-      <kbd>Automation, Data Science & AI</kbd>
+      <kbd>Data Science & AI</kbd>
       <br>
       <br>
-      <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer"/>
-      <img width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" title="Playwright"/>
-      <img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
+      <img width="30" src="https://github.com/banulaperera/banulaperera/blob/d30a9a3d8f9d2a3bc0835c4a0387b43f7cd04159/PubChem_logo.svg" alt="Pubchem Database" title="Pubchem Database"/>
+      <img width="30" src="https://github.com/banulaperera/banulaperera/blob/d30a9a3d8f9d2a3bc0835c4a0387b43f7cd04159/natural-language-processing.png" alt="NLP" title="Natural Language Processing"/>
+      <img width="30" src="https://github.com/banulaperera/banulaperera/blob/d30a9a3d8f9d2a3bc0835c4a0387b43f7cd04159/perplexity-ai-icon.png" alt="Perplexity" title="Perplexity"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
-      <img width="30px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/>
     </kbd>
     <kbd>
       <kbd>Operating System, Cloud & Deployment</kbd>
