@@ -16,7 +16,7 @@
       <img height="200" alt="Avatar photo of Banula" src="https://github.com/banulaperera/banulaperera/blob/d30a9a3d8f9d2a3bc0835c4a0387b43f7cd04159/generated_image.png" alt="Avatar photo of Banula">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79924&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Banula+Perera.;Welcome+to+my+Github+Profile.;University+of+Westminster%2C+London.;Software+Engineer.;Cloud+Certified(AWS%2C+GCP+and+Azure).;Aspiring+Devops%2FSRE.;Currently+Learning+Cheminformatics+and+Natural+Language+Processing.;F1+Race+and+Movie+Lover.;Hardworking+and+Ambitious.+" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79924&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Banula+Perera.;Welcome+to+my+Github+Profile.;University+of+Westminster%2C+London.;Software+Engineer.;Cloud+Certified(AWS%2C+GCP+and+Azure).;Aspiring+Devops%2FSRE.;F1+Race+and+Movie+Lover.;Hardworking+and+Ambitious.+" alt="Typing SVG" /></a>
   </div>
 </div>
 
