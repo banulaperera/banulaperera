@@ -45,7 +45,7 @@
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Banula Perera.
  */
 ```
 
