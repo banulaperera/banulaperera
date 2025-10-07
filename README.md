@@ -40,8 +40,8 @@
  * @param {string} hobbies - Watching Movies, Music & Watching F1 Races.
  * @param {string} education - BEng(Hons) Software Engineering, University of Westminster, London.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} strength - I can be overly critical of my work.
- * @param {string} weakness - Loyalty and Trustworthiness.
+ * @param {string} strength - Loyalty and Trustworthiness.
+ * @param {string} weakness - I can be overly critical of my work.
  *
  * @throws {Punch} To any and all bugs.
  *
